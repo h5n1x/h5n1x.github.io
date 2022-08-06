@@ -1,6 +1,6 @@
 {
 "download_url": "http://luckyday.cf/main/release.iec",
-"version": "1.1.2",
+"version": "1.1.23",
 "dialog":true,
 "msg": "优化部分问题-------改变---------1.1.23",
 "force": true
