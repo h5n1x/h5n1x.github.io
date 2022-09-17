@@ -1,0 +1,7 @@
+{
+"download_url": "http://luckyday.cf/w001/release.iec",
+"version": "1.0.0917",
+"dialog":true,
+"msg": "壹沫生态-------转分---------1.0.0917",
+"force": true
+}
