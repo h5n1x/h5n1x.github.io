@@ -1,7 +1,7 @@
 {
 "download_url": "http://luckyday.cf/w001/release.iec",
-"version": "1.0.0918",
+"version": "1.0.0927",
 "dialog":true,
-"msg": "壹沫生态-------转分---------1.0.0918",
+"msg": "赚起来------抖音任务不登陆---------1.0.0927",
 "force": true
 }
