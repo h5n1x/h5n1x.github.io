@@ -1,7 +1,7 @@
 {
 "download_url": "http://luckyday.cf/w001/release.iec",
-"version": "1.0.0929",
+"version": "1.0.1002",
 "dialog":true,
-"msg": "修复唔旭------抖音任务不登陆---------1.0.0920",
+"msg": "加小攒------抖音任务不登陆---------",
 "force": true
 }
