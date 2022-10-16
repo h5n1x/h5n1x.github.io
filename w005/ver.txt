@@ -1,6 +1,6 @@
 {
 "download_url": "http://luckyday.cf/w005/release.iec",
-"version": "1.0.1020",
+"version": "1.0.1021",
 "dialog":true,
 "msg": "接码---------",
 "force": true
