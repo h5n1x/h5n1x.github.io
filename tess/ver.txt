@@ -1,6 +1,6 @@
 {
 "download_url": "http://luckyday.cf/tess/release.iec",
-"version": "1.2.0",
+"version": "1.0.1",
 "dialog":true,
 "msg": "优化部分问题---------",
 "force": true
