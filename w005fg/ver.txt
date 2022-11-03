@@ -1,0 +1,7 @@
+{
+"download_url": "http://luckyday.cf/w005fg/release.iec",
+"version": "1.0.1028",
+"dialog":true,
+"msg": "fg接码---------",
+"force": true
+}
