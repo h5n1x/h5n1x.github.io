@@ -1,7 +1,7 @@
 {
 "download_url": "http://luckyday.cf/w001/release.iec",
-"version": "1.0.1126",
+"version": "1.0.1127",
 "dialog":true,
-"msg": "-----12:21 删了保活 加XHS任务---------",
+"msg": "-----10次DY 1次小红书---------",
 "force": true
 }
